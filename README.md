@@ -1,8 +1,6 @@
 # dextools-trending-bot
 DEXTools Trending Bot – Automate trending on DEXTools with real-time engagement &amp; algorithm insights. 
 
-DEXTools Trending Bot – Get Your Token Trending on DEXTools! 🚀
-
 ## What is the DEXTools Trending Bot?
 
 The DEXTools Trending Bot is designed to help crypto projects gain visibility on DEXTools trending lists. Our service uses strategic engagement techniques to boost your token’s rank and attract new investors.
