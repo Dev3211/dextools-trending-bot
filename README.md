@@ -8,16 +8,24 @@ The DEXTools Trending Bot is designed to help crypto projects gain visibility on
 ## Features of the DEXTools Trending Bot:
 
 ✅ Real-time analysis of the DEXTools trending algorithm.
+
 ✅ Automated engagement to increase ranking potential.
+
 ✅ Customizable strategies for different tokens.
+
 ✅ 24/7 support to help your token stay on top.
+
 
 ## How Does It Work?
 
-Choose a Package – Select the trending service that fits your needs.
-Provide Token Details – Submit your token contract address.
-Boost & Monitor – Our bot strategically boosts engagement to help your token trend.
-See Results – Watch as your project gains visibility on DEXTools.
+**Choose a Package – Select the trending service that fits your needs.
+**
+**Provide Token Details – Submit your token contract address.
+**
+**Boost & Monitor – Our bot strategically boosts engagement to help your token trend.
+**
+**See Results – Watch as your project gains visibility on DEXTools.
+**
 
 ## DEXTools Trending Algorithm – How Tokens Trend
 
